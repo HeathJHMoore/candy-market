@@ -7,4 +7,9 @@
 .candy-card {
     border: solid 1px black;
     width: 30%;
+    padding: 1em;
+    button {
+        background-color: blue;
+        color: white;
+    }
 }
